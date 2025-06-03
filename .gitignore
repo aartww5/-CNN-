@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pth
+*.pth.*
+*.egg-info/
+.vscode/
+*.so
+
+# dataset and model
+splited_dataset/
+best_optimized_hand_sign_model.pth
